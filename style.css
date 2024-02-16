@@ -80,7 +80,7 @@
 }
 .score-wrapper{
     position: fixed;
-    right: 240px;
+    right: 200px;
     top: 125px;
 }
 .correct, .incorrect{
